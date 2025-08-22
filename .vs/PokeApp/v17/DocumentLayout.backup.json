@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3243CEA9-7D27-4A06-A8F3-B4DE4E4CED33}|PruebaPokemonDb\\Pokemon.csproj|c:\\users\\frans\\onedrive\\desktop\\fede\\repositorio github\\pokedex\\pruebapokemondb\\frmpokemons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3243CEA9-7D27-4A06-A8F3-B4DE4E4CED33}|PruebaPokemonDb\\Pokemon.csproj|solutionrelative:pruebapokemondb\\frmpokemons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Pokemon||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3243CEA9-7D27-4A06-A8F3-B4DE4E4CED33}|PruebaPokemonDb\\PruebaPokemonDb.csproj|C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\pruebapokemondb\\frmpokemons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3243CEA9-7D27-4A06-A8F3-B4DE4E4CED33}|PruebaPokemonDb\\PruebaPokemonDb.csproj|solutionrelative:pruebapokemondb\\frmpokemons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3243CEA9-7D27-4A06-A8F3-B4DE4E4CED33}|PruebaPokemonDb\\PruebaPokemonDb.csproj|C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\pruebapokemondb\\frmaltapokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3243CEA9-7D27-4A06-A8F3-B4DE4E4CED33}|PruebaPokemonDb\\PruebaPokemonDb.csproj|solutionrelative:pruebapokemondb\\frmaltapokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3243CEA9-7D27-4A06-A8F3-B4DE4E4CED33}|PruebaPokemonDb\\PruebaPokemonDb.csproj|C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\pruebapokemondb\\frmaltapokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3243CEA9-7D27-4A06-A8F3-B4DE4E4CED33}|PruebaPokemonDb\\PruebaPokemonDb.csproj|solutionrelative:pruebapokemondb\\frmaltapokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599D7216-7880-4FFB-9DC0-D4E1969A8790}|negocio\\negocio.csproj|C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\negocio\\pokemonnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599D7216-7880-4FFB-9DC0-D4E1969A8790}|negocio\\negocio.csproj|solutionrelative:negocio\\pokemonnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3243CEA9-7D27-4A06-A8F3-B4DE4E4CED33}|PruebaPokemonDb\\PruebaPokemonDb.csproj|C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\pruebapokemondb\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3243CEA9-7D27-4A06-A8F3-B4DE4E4CED33}|PruebaPokemonDb\\PruebaPokemonDb.csproj|solutionrelative:pruebapokemondb\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599D7216-7880-4FFB-9DC0-D4E1969A8790}|negocio\\negocio.csproj|C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599D7216-7880-4FFB-9DC0-D4E1969A8790}|negocio\\negocio.csproj|solutionrelative:negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67599F1A-E902-4D51-AAEA-291BFDB929FF}|dominio\\dominio.csproj|C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\dominio\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67599F1A-E902-4D51-AAEA-291BFDB929FF}|dominio\\dominio.csproj|solutionrelative:dominio\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599D7216-7880-4FFB-9DC0-D4E1969A8790}|negocio\\negocio.csproj|C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\negocio\\elementonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599D7216-7880-4FFB-9DC0-D4E1969A8790}|negocio\\negocio.csproj|solutionrelative:negocio\\elementonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pokemon",
+              "DocumentMoniker": "C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\PruebaPokemonDb\\Pokemon.csproj",
+              "RelativeDocumentMoniker": "PruebaPokemonDb\\Pokemon.csproj",
+              "ToolTip": "C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\PruebaPokemonDb\\Pokemon.csproj",
+              "RelativeToolTip": "PruebaPokemonDb\\Pokemon.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-22T17:29:23.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPokemons.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\PruebaPokemonDb\\frmPokemons.cs",
+              "RelativeDocumentMoniker": "PruebaPokemonDb\\frmPokemons.cs",
+              "ToolTip": "C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\PruebaPokemonDb\\frmPokemons.cs [Design]",
+              "RelativeToolTip": "PruebaPokemonDb\\frmPokemons.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T22:54:20.997Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAltaPokemon.cs",
+              "DocumentMoniker": "C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\PruebaPokemonDb\\frmAltaPokemon.cs",
+              "RelativeDocumentMoniker": "PruebaPokemonDb\\frmAltaPokemon.cs",
+              "ToolTip": "C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\PruebaPokemonDb\\frmAltaPokemon.cs",
+              "RelativeToolTip": "PruebaPokemonDb\\frmAltaPokemon.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAADwv0IAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T16:41:26.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\negocio\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "negocio\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\negocio\\AccesoDatos.cs",
+              "RelativeToolTip": "negocio\\AccesoDatos.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAD4vzsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T21:52:09.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAltaPokemon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\PruebaPokemonDb\\frmAltaPokemon.cs",
+              "RelativeDocumentMoniker": "PruebaPokemonDb\\frmAltaPokemon.cs",
+              "ToolTip": "C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\MaxiPrograma\\C#2\\Unid-2\\Pruebas\\PruebaPokemonDb\\frmAltaPokemon.cs [Design]",
+              "RelativeToolTip": "..\\..\\MaxiPrograma\\C#2\\Unid-2\\Pruebas\\PruebaPokemonDb\\frmAltaPokemon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T16:22:00.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPokemons.cs",
+              "DocumentMoniker": "C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\PruebaPokemonDb\\frmPokemons.cs",
+              "RelativeDocumentMoniker": "PruebaPokemonDb\\frmPokemons.cs",
+              "ToolTip": "C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\PruebaPokemonDb\\frmPokemons.cs",
+              "RelativeToolTip": "PruebaPokemonDb\\frmPokemons.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAD4v5gAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T21:23:26.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PokemonNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\negocio\\PokemonNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\PokemonNegocio.cs",
+              "ToolTip": "C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\negocio\\PokemonNegocio.cs",
+              "RelativeToolTip": "negocio\\PokemonNegocio.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAIwHYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T21:35:16.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\PruebaPokemonDb\\App.config",
+              "RelativeDocumentMoniker": "PruebaPokemonDb\\App.config",
+              "ToolTip": "C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\PruebaPokemonDb\\App.config",
+              "RelativeToolTip": "PruebaPokemonDb\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-14T17:19:15.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\dominio\\Pokemon.cs",
+              "RelativeDocumentMoniker": "dominio\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\dominio\\Pokemon.cs",
+              "RelativeToolTip": "dominio\\Pokemon.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T21:15:09.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ElementoNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\negocio\\ElementoNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\ElementoNegocio.cs",
+              "ToolTip": "C:\\Users\\frans\\OneDrive\\Desktop\\FEDE\\Repositorio Github\\Pokedex\\negocio\\ElementoNegocio.cs",
+              "RelativeToolTip": "negocio\\ElementoNegocio.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T22:24:20.484Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

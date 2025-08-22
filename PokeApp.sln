@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon", "PruebaPokemonDb\Pokemon.csproj", "{3243CEA9-7D27-4A06-A8F3-B4DE4E4CED33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{67599F1A-E902-4D51-AAEA-291BFDB929FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{599D7216-7880-4FFB-9DC0-D4E1969A8790}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3243CEA9-7D27-4A06-A8F3-B4DE4E4CED33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3243CEA9-7D27-4A06-A8F3-B4DE4E4CED33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3243CEA9-7D27-4A06-A8F3-B4DE4E4CED33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3243CEA9-7D27-4A06-A8F3-B4DE4E4CED33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67599F1A-E902-4D51-AAEA-291BFDB929FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67599F1A-E902-4D51-AAEA-291BFDB929FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67599F1A-E902-4D51-AAEA-291BFDB929FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67599F1A-E902-4D51-AAEA-291BFDB929FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{599D7216-7880-4FFB-9DC0-D4E1969A8790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599D7216-7880-4FFB-9DC0-D4E1969A8790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599D7216-7880-4FFB-9DC0-D4E1969A8790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599D7216-7880-4FFB-9DC0-D4E1969A8790}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC007BF6-8148-4D9C-B1CC-922E82DC1519}
+	EndGlobalSection
+EndGlobal

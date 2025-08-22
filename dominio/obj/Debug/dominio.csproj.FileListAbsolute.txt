@@ -1,0 +1,6 @@
+C:\Users\frans\OneDrive\Desktop\FEDE\MaxiPrograma\C#2\Unid-2\Pruebas\dominio\bin\Debug\dominio.dll
+C:\Users\frans\OneDrive\Desktop\FEDE\MaxiPrograma\C#2\Unid-2\Pruebas\dominio\bin\Debug\dominio.pdb
+C:\Users\frans\OneDrive\Desktop\FEDE\MaxiPrograma\C#2\Unid-2\Pruebas\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\frans\OneDrive\Desktop\FEDE\MaxiPrograma\C#2\Unid-2\Pruebas\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\frans\OneDrive\Desktop\FEDE\MaxiPrograma\C#2\Unid-2\Pruebas\dominio\obj\Debug\dominio.dll
+C:\Users\frans\OneDrive\Desktop\FEDE\MaxiPrograma\C#2\Unid-2\Pruebas\dominio\obj\Debug\dominio.pdb
